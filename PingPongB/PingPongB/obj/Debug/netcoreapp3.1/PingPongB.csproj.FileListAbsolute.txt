@@ -1,0 +1,13 @@
+C:\Code\PingPongB\PingPongB\PingPongB\bin\Debug\netcoreapp3.1\PingPongB.exe
+C:\Code\PingPongB\PingPongB\PingPongB\bin\Debug\netcoreapp3.1\PingPongB.deps.json
+C:\Code\PingPongB\PingPongB\PingPongB\bin\Debug\netcoreapp3.1\PingPongB.runtimeconfig.json
+C:\Code\PingPongB\PingPongB\PingPongB\bin\Debug\netcoreapp3.1\PingPongB.runtimeconfig.dev.json
+C:\Code\PingPongB\PingPongB\PingPongB\bin\Debug\netcoreapp3.1\PingPongB.dll
+C:\Code\PingPongB\PingPongB\PingPongB\bin\Debug\netcoreapp3.1\PingPongB.pdb
+C:\Code\PingPongB\PingPongB\PingPongB\obj\Debug\netcoreapp3.1\PingPongB.csprojAssemblyReference.cache
+C:\Code\PingPongB\PingPongB\PingPongB\obj\Debug\netcoreapp3.1\PingPongB.AssemblyInfoInputs.cache
+C:\Code\PingPongB\PingPongB\PingPongB\obj\Debug\netcoreapp3.1\PingPongB.AssemblyInfo.cs
+C:\Code\PingPongB\PingPongB\PingPongB\obj\Debug\netcoreapp3.1\PingPongB.csproj.CoreCompileInputs.cache
+C:\Code\PingPongB\PingPongB\PingPongB\obj\Debug\netcoreapp3.1\PingPongB.dll
+C:\Code\PingPongB\PingPongB\PingPongB\obj\Debug\netcoreapp3.1\PingPongB.pdb
+C:\Code\PingPongB\PingPongB\PingPongB\obj\Debug\netcoreapp3.1\PingPongB.genruntimeconfig.cache
